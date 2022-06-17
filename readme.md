@@ -6,3 +6,5 @@
 
 ### 22/05/08
 - ch07はデータ容量が大きいため、chapter07.ipynb, countries.txt, answer-words.txtのみをアップロード
+
+#
